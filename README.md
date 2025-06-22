@@ -1,5 +1,4 @@
+🛍️ Stylish Amazon Product Cards — HTML & CSS Project
+Recreated elegant, responsive product cards inspired by Amazon's signature UI — using only HTML and CSS.
 
-🛍️ Stylish Amazon Product Cards — HTML & CSS Challenge
-Welcome to the Stylish Product Cards challenge! Your mission, should you choose to accept it, is to recreate elegant, modern, and responsive product cards inspired by Amazon’s sleek interface — using only HTML and CSS.
-
-This is a design-focused front-end coding challenge, where attention to detail, clean structure, and creative flair are everything.
+This project is a visual and structural exercise in crafting clean, modern, e-commerce-style components with a focus on layout precision, typography, and user experience — all without JavaScript.
