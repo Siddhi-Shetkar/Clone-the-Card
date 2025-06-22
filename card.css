@@ -1,0 +1,74 @@
+/* Center the entire card vertically and horizontally */
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+/* Card container styling */
+.amazon-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  max-width: 300px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #fff;
+}
+
+/* Product image should be large */
+.product-img {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+/* Title styling */
+.title {
+  margin: 12px 0;
+  font-size: 18px;
+  color: #111;
+}
+
+/* Rating styles */
+.rating .stars {
+  color: #ffa41c;
+  font-size: 16px;
+}
+
+.rating .reviews {
+  font-size: 14px;
+  color: #555;
+  margin-left: 6px;
+}
+
+/* Price styling with rupees */
+.price {
+  font-size: 24px;
+  font-weight: bold;
+  color: #B12704;
+  margin: 12px 0;
+}
+
+/* Prime section styling */
+.prime {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #0073b1;
+}
+
+/* Prime logo smaller than product image */
+.prime-logo {
+  width: 40px;
+  height: auto;
+  object-fit: contain;
+}
